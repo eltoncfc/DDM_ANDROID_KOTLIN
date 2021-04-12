@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="279dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/cab"
+            android:contentDescription="TODO" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="@string/mensagem_login"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="@string/mensagem_login_usuario" />
+
+    <EditText
+        android:id="@+id/input_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:hint="@string/text_input_user"
+        android:inputType="textPersonName"
+        android:autofillHints="" />
+
+    <TextView
+        android:id="@+id/text_password"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="@string/mensagem_login_senha" />
+
+    <EditText
+        android:id="@+id/input_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="15"
+        android:inputType="textPassword"
+        android:hint="@string/text_input_password"
+        android:autofillHints="" />
+
+    <Button
+        android:id="@+id/botao_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoSizeTextType="none"
+        android:backgroundTint="#1531CF"
+        android:ellipsize="middle"
+        android:text="@string/botao_user"
+        app:iconTint="#FFFFFF" />
+
+
+</LinearLayout>

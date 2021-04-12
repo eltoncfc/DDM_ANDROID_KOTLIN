@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hair2u</string>
+    <string name="mensagem_inicial">Bem Vindo</string>
+    <string name="mensagem_login">Seja Bem vindo ao Hair2u</string>
+    <string name="mensagem_login_usuario">Usuário:</string>
+    <string name="mensagem_login_senha">Senha:</string>
+
+    <!-- Text Input -->
+    <string name="text_input_user">Digite o seu Usuário.</string>
+    <string name="text_input_password">Digite a sua Senha.</string>
+
+    <!-- Botões -->
+    <string name="botao_user">Login</string>
+    <string name="botao_voltar_login">Voltar para tela de Login</string>
+    <string name="textview">Bem vindo, Aluno</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="buscar">Buscar</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="botao_sair">Sair</string>
+
+
+    <!-- <string name=""></string> -->
+</resources>
