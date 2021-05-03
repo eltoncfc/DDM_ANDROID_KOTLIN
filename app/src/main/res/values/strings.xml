@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Sobre</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+
+    <string name="menu_home">Sobre</string>
+    <string name="menu_gallery">Serviços</string>
+    <string name="menu_slideshow">Profissionais</string>
+    <string name="botao_voltar_login">Voltar</string>
+    <string name="mensagem_inicial">Olá</string>
+    <string name="mensagem_login">LOGIN</string>
+    <string name="mensagem_login_usuario">ling message</string>
+    <string name="text_input_user">messageLOGIN</string>
+    <string name="mensagem_login_senha">SENHA</string>
+    <string name="text_input_password">HINT</string>
+    <string name="botao_user">BOTAO</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="buscar">pesquisar</string>
+    <string name="atualizar">atualizar</string>
+    <string name="title_activity_login">Hair2u Studio</string>
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bem Vindo!"</string>
+    <string name="invalid_username">Usuario Invalido</string>
+    <string name="invalid_password">Senha Invalida</string>
+    <string name="login_failed">"Login Falhou"</string>
+    <string name="textView4">"Seja Bem Vindo ao Hair2u!</string>
+    <string name="sobre">"O Salão de beleza Hair2U está no mercado da beleza há 7 anos, sua proprietária Susana Alves é especialista em micropigmentação, design de sobrancelhas e mega hair. Começou na área da beleza há mais de 20 anos e hoje ela quer expandir a sua empresa e para isso ela busca algumas ferramentas para facilitar a gestão do seu salão.
+Com o aumento de serviços, produtos, clientes e colaboradores, ela deseja um sistema que auxilie nos serviços ofertados e no agendamento de horários online para dar mais conforto e agilidade para seus clientes. Busca na tecnologia encontrar soluções para esse novo desafio.
+A empresa deseja que o sistema tenha o controle de cadastro de clientes, com o histórico de seu cliente e serviços que foram realizados, conta também com o controle de seus profissionais e serviços realizados com suas devidas comissões. Pensando em seus clientes a empresa deseja, através de seu site, fazer agendamentos online, podendo escolher o serviço, o profissional disponível ou indicado, na data e horário de sua preferência.
+</string>
+</resources>
