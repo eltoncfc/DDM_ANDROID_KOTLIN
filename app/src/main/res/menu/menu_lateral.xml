@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_servicos"
+            android:icon="@drawable/servico"
+            android:title="Serviços"
+            android:checked="true"
+            />
+
+        <item
+            android:id="@+id/nav_profissional"
+            android:icon="@drawable/profissional"
+            android:title="Profissional"
+            android:checked="true"
+            />
+
+        <item
+            android:id="@+id/nav_produtos"
+            android:icon="@drawable/produtos"
+            android:title="Produtos"
+            android:checked="true"
+            />
+
+    </group>
+
+</menu>
