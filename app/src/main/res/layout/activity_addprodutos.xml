@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddProfissional">
+
+    <EditText
+        android:id="@+id/nomeProfissional"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nome do Profissional"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/tiposServicos"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:ems="10"
+        android:hint="Tipos de Serviços"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/especialidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Especialidade"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/urlFoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Fotos"
+        android:inputType="textPersonName"/>
+
+    <Button
+        android:id="@+id/salvarProfissional"
+        android:layout_width="294dp"
+        android:layout_height="wrap_content"
+        android:text="@string/save_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editText_valor"
+        app:layout_constraintVertical_bias="0.511" />
+
+
+
+</LinearLayout>

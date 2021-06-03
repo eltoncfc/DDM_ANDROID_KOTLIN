@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205238922228",
+    "project_id": "hair2uapp",
+    "storage_bucket": "hair2uapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205238922228:android:f63e65ad7dcd947df5e7a1",
+        "android_client_info": {
+          "package_name": "br.com.hair2u.hair2uapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205238922228-4jllaspgvcru01hoj9q313vnj9mel76r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBGdxLVpvTif1N_Bd-Dk5qXweiLjNL6RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205238922228-4jllaspgvcru01hoj9q313vnj9mel76r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

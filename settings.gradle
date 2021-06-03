@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "br.com.hair2u.hair2uapp"
